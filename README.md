@@ -26,10 +26,6 @@ Print the output.
 
 ## PROGRAM:
 ```
-To write a program for getting the word count from a file.
-Developed by : Monisha T
-Registernumber : 21500314
-
 def wordcount():
   count = 0
   with open("MyFile.txt","r") as f2:
